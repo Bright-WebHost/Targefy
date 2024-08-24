@@ -9,7 +9,7 @@ const App = () => {
   
   return (
     <div className="App">
-      <Components />  
+      <Components/>  
       {/* <ScrolToTop/> */}
       <Whatsapp/>
       {/* <Loader/>   */}
