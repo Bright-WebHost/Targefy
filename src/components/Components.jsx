@@ -39,7 +39,7 @@ import WhyTargefy from './Pages/WhyTargefy';
 class Components extends React.Component {
     render() {
         return (
-            <BrowserRouter basename="/Targefy">
+            <BrowserRouter basename="/targefy.com">
                 <ScrollToTop />
                 <div className="page-wraper">
                         <Routes>
